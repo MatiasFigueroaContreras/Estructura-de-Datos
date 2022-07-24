@@ -1,0 +1,24 @@
+6
+Estatico
+Tiene una cantidad fija de memoria, teniendo asi un limite de datos a almacenar.
+fijo, invariable, inmovil, inamovible, quieto.
+
+Dinamica
+Tiene una cantidad variable de memoria, en donde la cantidad de datos puede ir creciendo y decreciendo.
+cambiante, proactivo, versatil.
+
+Lineales
+La forma de enlazar los datos es uno a uno, es decir cada conjunto de datos tiene solo un antecesor y/o un sucesor.
+unidimensional, listado, recto, seguido.
+
+No lineales
+La forma de enlazar los datos es de dos o mas cada uno, es decir cada dato va atener dos datos sucesores como minimo.
+multidimensional, multiple.
+
+Dato
+Es informacion fija la cual puede ser de distintos tipos (enteros, cadenas de texto, etc...).
+informacion, antecedente, hecho.
+
+Variable
+Es el espacio de memoria en donde se almacenan los datos, en donde el espacio ocupado va a depender por el tipo de dato que se este guardando.
+variante, versatil, cambiante.
